@@ -15,3 +15,5 @@
 * *Bootstrap*
 * *Flex-box*
 * *Gradle*
+* *Stream API*
+* *MySQL*
